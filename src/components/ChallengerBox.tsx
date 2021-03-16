@@ -49,7 +49,7 @@ export function ChallengerBox() {
         </div>
       ) : (
         <div className={styles.challengerNotActive}>
-          <strong>Inicie um ciclo para receber para receber desafios</strong>
+          <strong>Inicie um ciclo para receber desafios</strong>
           <p>
             <img src="icons/level-up.svg" alt="Level Up" />
             Avance de level completando os desafios
